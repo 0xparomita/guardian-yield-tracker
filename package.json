@@ -1,0 +1,10 @@
+{
+  "name": "guardian-yield-tracker",
+  "version": "1.0.0",
+  "description": "Profitability analysis for DAO Guardians",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
